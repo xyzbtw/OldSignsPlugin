@@ -1,0 +1,12 @@
+{
+  "Plugin-Class": "dev.xyzbtw.ExamplePlugin",
+  "Name": "Old signs",
+  "Version": "${plugin_version}",
+  "Description": "Old signs plugin",
+  "Authors": [
+    "John200410"
+  ],
+  "Minecraft-Versions": [
+    "1.20.4"
+  ]
+}
